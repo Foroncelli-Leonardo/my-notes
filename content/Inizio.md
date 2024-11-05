@@ -1,7 +1,5 @@
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
-draft: false
-tags:
-  - 
+title: Come pubblicare degli update su quarz
 ---
- 
+
+Good morning USA I got this feeling
