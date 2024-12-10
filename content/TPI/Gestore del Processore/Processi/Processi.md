@@ -1,5 +1,3 @@
-Un intero sistema o un insieme di processi che possono essere eseguiti in parallelo sui processori alternando nell’esecuzione.
-
 Ogni processo è costituito da due parti:
 
 - **Codice:** composto dalle istruzioni.
@@ -32,3 +30,8 @@ Un programma può generare più processi, ma ogni processo è associato ad un so
 I processi supervisori in esecuzione sulla CPU (in background) hanno un’importanza maggiore rispetto ai processi utente.
 
 Quando un programma va in esecuzione viene creato il processo (memorizzato in memoria centrale).
+
+Ogni processo ha un [[Ciclo di vita di un processo]]
+
+**Descrittore del processo**
+Il SO per ogni processo deve mantenere delle informazioni, che istante per istante tengano traccia di cosa sta “facendo il processo”. L’insieme di queste informazioni è detto descrittore di processo.
