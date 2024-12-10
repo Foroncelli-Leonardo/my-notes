@@ -312,4 +312,4 @@ Segmentazione con paginazione:
 - Gli indirizzi logici hanno tre componenti: segmento, pagina, spiazzamento, tradotti in frame e spiazzamento fisico tramite MMU e tabelle.
     
 
-Il context switching (o cambio di contesto) è un concetto fondamentale nella gestione dei processi di un sistema operativo multitasking. Si verifica quando la CPU sospende l’esecuzione di un processo per passare a un altro. Durante questo passaggio, lo stato del processo interrotto viene salvato, in modo che possa riprendere l’esecuzione esattamente da dove era stato interrotto in un momento successivo.
+Il context switching (o cambio di contesto) è un concetto fondamentale nella gestione dei processi di un sistema operativo multitasking. Si verifica quando la CPU sospende l’esecuzione di un processo per passare a un altro. Durante questo passaggio, lo stato del processo interrotto viene salvato, in modo che possa riprendere l’esecuzione esattamente da dove era stato interrotto in un momento successivo
