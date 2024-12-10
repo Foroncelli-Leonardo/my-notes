@@ -1,0 +1,1 @@
+**MMU (Memory Management Unit):** Dispositivo hardware che traduce indirizzi logici in fisici. Usa la formula: Indirizzo fisico = Indirizzo logico + Registro di rilocazione.
